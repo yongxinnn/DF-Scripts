@@ -1,4 +1,5 @@
 # Digital Forensics Module Scripts for evidence creation
+Disclaimer: This project was created for educational purposes as part of a school assignment.<br/>It should not be used for any malicious or unethical activities.
 
 ## setup.sh
 Install applications: awscli, udev & cron <br/>
